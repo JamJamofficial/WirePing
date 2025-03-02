@@ -1,4 +1,4 @@
-# WirePing
+# WirePing (A RAT Template)
 
  # Still in Beta Stages and may pose security risks, use at your own risk. Feel free to make any suggestions.
 
