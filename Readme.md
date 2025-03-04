@@ -31,4 +31,4 @@ python client.py
 ## **⚠ Legal Disclaimer**
 This tool is for **educational and ethical use only**. Unauthorized access to another persons computer is **illegal** and **violates the computer misuse Act**.
 
-I Will be updating this frequently!
+I will be updating this frequently!
