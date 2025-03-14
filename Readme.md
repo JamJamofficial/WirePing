@@ -33,6 +33,7 @@ This tool is for **educational and ethical use only**. Unauthorized access to an
 
 I will be updating this frequently!
 Make sure to follow me on 
-    [IG](instagram.com/jamjam_officiale).
+    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
+
 
 
