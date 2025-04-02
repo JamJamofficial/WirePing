@@ -32,8 +32,12 @@ python client.py
 This tool is for **educational and ethical use only**. Unauthorized access to another persons computer is **illegal** and **violates the computer misuse Act**.
 
 I will be updating this frequently!
-Make sure to follow me on 
-    <a href="https://www.instagram.com/jamjam_officiale">IG</a>
+
+---
+
+### 🔗 Connect with Me  
+📸 <a href="https://www.linktr.ee/jamjam_official">Socials</a>
+📧 jamjamofficial@email.com
 
 
 
